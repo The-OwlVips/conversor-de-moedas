@@ -3,5 +3,5 @@ function converter() {
   var resultado = document.getElementById('resultado')
   var cotacaoDoDolar = 5.32;
   var valorEmReal = valorDolar * cotacaoDoDolar
-  resultado.innerHTML = '<p>' + valorEmReal.toFixed(2) + '</p>'
+  resultado.innerHTML = '<p>'+ "O Resultado é " + valorEmReal.toFixed(2) + '</p>'
 }
