@@ -38,6 +38,8 @@ body {
 #valorDolar {
   width: 260px;
   height: 30px;
+  border-radius: 8px;
+  border-style: none;
 }
 
 #resultado {
