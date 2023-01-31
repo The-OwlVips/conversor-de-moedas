@@ -28,11 +28,15 @@ body {
   width: 200px;
 }
 
-.alura-logo {
-  width: 40px;
+.redes {
+  width: 50px;
   position: absolute;
   top: 10px;
   right: 10px;
+}
+
+#insta {
+  right: 60px;
 }
 
 #valorDolar {
